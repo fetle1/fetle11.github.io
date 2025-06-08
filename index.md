@@ -10,10 +10,19 @@ sidebar:
 
 <h2 id="jk_about"> About me</h2>
 <p>
-    I am an Assistant Professor at the <a href="http://utias.utoronto.ca">University of Toronto Institute for Aerospace Studies</a> and the Director of the <a href="http://starslab.ca">Space & Terrestrial Autonomous Robotic Systems (STARS)</a> Laboratory. 
+    I am a public health researcher, data scientist, and educator with a multidisciplinary background that bridges biostatistics, machine learning, and digital health innovation. Currently serving as a Lecturer in the Department of Public Health at the University of Gondar, I bring over four years of academic and applied experience in epidemiology, data analysis, and advanced statistical modeling.
 </p>
 <p>
-    Before joining the University of Toronto, I was a Postdoctoral Associate in the <a href="https://groups.csail.mit.edu/rrg/">Robust Robotics Group</a> at the Massachusetts Institute of Technology, working with Prof. Nick Roy. I completed my Ph.D. in the <a href="https://robotics.usc.edu/resl/">Robotic Embedded Systems Laboratory</a> at the University of Southern California, under the supervision of Prof. Gaurav Sukhatme.
+    My academic journey includes an MPH in Biostatistics (GPA: 3.88), a BSc in Public Health (GPA: 3.75), and a Certificate in Data Science and AI. Professionally, I’ve gained hands-on experience through roles such as Graduate Assistant, Assistant Lecturer, and Lecturer, as well as internships as a Data Analyst at Spurt! and Data Scientist at Prodigy Infotech.
+</p>
+</p>
+My research focuses on applying machine learning and explainable AI to public health challenges, with particular interests in maternal and child health, cancer prevention, and spatial epidemiology. I’ve co-authored several peer-reviewed publications in high-impact journals, utilizing advanced methodologies such as Bayesian hierarchical models, random forest classifiers, and spatiotemporal cluster analysis.
+</p>
+</p>
+I am proficient in Python, R, Stata, and SPSS, and technically grounded in methods including deep learning, predictive modeling, systematic reviews, meta-analysis, and Bayesian and spatial techniques. I speak Amharic and English fluently, and possess basic proficiency in French and German.
+</p>
+</p>
+Above all, I am passionate about leveraging data to inform equitable health policies and drive impactful public health solutions across Africa and beyond.
 </p>
 
 
