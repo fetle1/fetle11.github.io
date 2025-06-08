@@ -11,7 +11,7 @@ permalink: /contact/
 <ul>
   <li>
     <strong>Email:</strong>
-    <a href="mailto:fetle0123@gmail.com">fetle0123@gmail.com</a>
+    <a href="mailto:fetlework.gubena@uog.edu.et">fetlework.gubena@uog.edu.et</a>
   </li>
   <li>
     <strong>LinkedIn:</strong>
